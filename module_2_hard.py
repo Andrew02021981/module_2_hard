@@ -17,6 +17,5 @@ for j in range(1, n):
        if n % sum_1 == 0 and j != k:
             str_1 = str_1 + str(j) + str(k)
 
-print ('Ваш пароль:',str_1)
-
+print ('Вуаля, Ваш пароль:',str_1)
 
